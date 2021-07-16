@@ -1,0 +1,17 @@
+{
+    "name": "deez",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "deez",
+        "/category/asset_value_tracking/core-token/symbol": "deez",
+        "/category/asset_value_tracking/core-token/decimals": "0",
+        "/category/asset_value_tracking/core-token/supply": "1000000",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "single",
+        "/category/collection/core-entity": true
+    }
+}
